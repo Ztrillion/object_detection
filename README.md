@@ -25,7 +25,7 @@
 ## preprocessing data
 
 - Class count min -> 1
-- Class count max -> 3486
+- Class count max -> 3500
 
 ![prep_class](https://github.com/Ztrillion/object_detection/blob/master/plots/prep_class.png)
 
