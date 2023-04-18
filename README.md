@@ -2,11 +2,11 @@
 
 ## 4월 3일 1차 이관 데이터 Preprocessing
 
-### ORIGINAL DATA
-
 | EPOCH | ORIGINAL (mAP) | PREPROCESSING (mAP) |
 | ----- | -------------- | ------------------- |
 | BEST  | 0.299          | 0.675               |
+
+### ORIGINAL DATA
 
 - Class num -> 117EA
 
