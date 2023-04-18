@@ -10,11 +10,11 @@
 
 - Class count max -> 13,000
 
-    ![original_class](C:\Users\combus-rnd\geostory_yolov5\plots\original_class.png)
+    ![original_class](https://github.com/Ztrillion/object_detection/edit/master/plots/original_class.png)
 
 - Boxplot
 
-  ![original_boxplot](C:\Users\combus-rnd\geostory_yolov5\plots\original_boxplot.png)
+  ![original_boxplot](https://github.com/Ztrillion/object_detection/edit/master/plots/original_boxplot.png)
 
 
 
@@ -23,11 +23,11 @@
 - Class count min -> 1
 - Class count max -> 3486
 
-![prep_class](C:\Users\combus-rnd\geostory_yolov5\plots\prep_class.png)
+![prep_class](https://github.com/Ztrillion/object_detection/edit/master/plots/prep_class.png)
 
 - Boxplot
 
-![prep_boxplot](C:\Users\combus-rnd\geostory_yolov5\plots\prep_boxplot.png)
+![prep_boxplot](https://github.com/Ztrillion/object_detection/edit/master/plots/prep_boxplot.png)
 
 | EPOCH | ORIGINAL (mAP) | PREPROCESSING (mAP) |
 | ----- | -------------- | ------------------- |
