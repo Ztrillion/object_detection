@@ -1,8 +1,12 @@
 # object_ detection
 
-## Data Preprocessing
+## 4월 3일 1차 이관 데이터 Preprocessing
 
 ### ORIGINAL DATA
+
+| EPOCH | ORIGINAL (mAP) | PREPROCESSING (mAP) |
+| ----- | -------------- | ------------------- |
+| BEST  | 0.299          | 0.675               |
 
 - Class num -> 117EA
 
@@ -10,7 +14,7 @@
 
 - Class count max -> 13,000
 
-    ![original_class](https://github.com/Ztrillion/object_detection/blob/master/plots/original_boxplot.png)
+    ![original_class](https://github.com/Ztrillion/object_detection/blob/master/plots/original_class.png)
 
 - Boxplot
 
@@ -28,10 +32,6 @@
 - Boxplot
 
 ![prep_boxplot](https://github.com/Ztrillion/object_detection/blob/master/plots/prep_boxplot.png)
-
-| EPOCH | ORIGINAL (mAP) | PREPROCESSING (mAP) |
-| ----- | -------------- | ------------------- |
-| BEST  | 0.299          | 0.675               |
 
 ---
 
