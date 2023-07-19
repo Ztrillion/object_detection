@@ -23,11 +23,6 @@
 
 ### ORIGINAL DATA
 
-- Class num -> 117EA
-
-- Class count min -> 1
-
-- Class count max -> 13,000
 
     ![기존 DATA](https://github.com/Ztrillion/object_detection/blob/master/plots/기존PR_curve.png)
 
@@ -36,6 +31,5 @@
 
 ## preprocessing data
 
-- Class count min -> 1
 
-![prep_class](https://github.com/Ztrillion/object_detection/blob/master/plots/PR_curve.png)
+    ![prep_class](https://github.com/Ztrillion/object_detection/blob/master/plots/PR_curve.png)
