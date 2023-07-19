@@ -24,7 +24,7 @@
 ### ORIGINAL DATA
 
 
-    ![기존 DATA](https://github.com/Ztrillion/object_detection/blob/master/plots/기존PR_curve.png)
+![기존 DATA](https://github.com/Ztrillion/object_detection/blob/master/plots/기존PR_curve.png)
 
 
 
@@ -32,4 +32,4 @@
 ## preprocessing data
 
 
-    ![prep_class](https://github.com/Ztrillion/object_detection/blob/master/plots/PR_curve.png)
+![prep_class](https://github.com/Ztrillion/object_detection/blob/master/plots/PR_curve.png)
