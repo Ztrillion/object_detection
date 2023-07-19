@@ -32,7 +32,7 @@
 | ----- | --------------  | ------------------- |------------------- |
 | BEST  | 42.7%           | 67.5%               | 81.4%              |
 
-### ORIGINAL DATA
+### 기존 모델 개선 전 성능지표
 
 
 ![기존 DATA](https://github.com/Ztrillion/object_detection/blob/master/plots/기존PR_curve.png)
@@ -40,7 +40,7 @@
 
 
 
-## preprocessing data
+## 데이터 개선 및 FINE TUNING 후 성능지표
 
 
 ![prep_class](https://github.com/Ztrillion/object_detection/blob/master/plots/PR_curve.png)
