@@ -29,7 +29,7 @@
 
 - Class count max -> 13,000
 
-    ![original_class](https://github.com/Ztrillion/object_detection/blob/master/plots/original_class.png)
+    ![기존 DATA](https://github.com/Ztrillion/object_detection/blob/master/plots/기존PR_curve.png)
 
 
 
@@ -38,4 +38,4 @@
 
 - Class count min -> 1
 
-![prep_class](https://github.com/Ztrillion/object_detection/blob/master/plots/prep_class.png)
+![prep_class](https://github.com/Ztrillion/object_detection/blob/master/plots/PR_curve.png)
