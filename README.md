@@ -22,8 +22,8 @@
 - OPTIMIZER : ADAM
 - BATCH-SIZE : 20
 
-### *TTA 소프트웨어 V&V 인증 시험 완료. 
-### *Model Quantization 완료. 
+### * TTA 소프트웨어 V&V 인증 시험 완료. 
+### * Model Quantization 완료. 
 
 ## 4월 3일 
 
